@@ -150,24 +150,12 @@ export default function Footer() {
       <div className="container">
         <div className="copyright">
           <div className="row">
-            <div className="col-md-6 text-center text-md-start mb-3 mb-md-0">
+            <div className="col-md-6 text-center text-md-start mb-3 mb-md-0 ">
               &copy;{" "}
-              <a className="border-bottom" href="#">
-                Your Site Name
+              <a className="" href="#">
+                ZAHRA'S RAINBOW SCHOOL
               </a>
-              , All Right Reserved. Designed By{" "}
-              <a className="border-bottom" href="https://htmlcodex.com">
-                HTML Codex
-              </a>
-              <br />
-              Distributed By:{" "}
-              <a
-                className="border-bottom"
-                href="https://themewagon.com"
-                target="_blank"
-              >
-                ThemeWagon
-              </a>
+              , All Right Reserved.
             </div>
             <div className="col-md-6 text-center text-md-end">
               <div className="footer-menu">
