@@ -5,7 +5,7 @@ export default function Header() {
     <nav className="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0">
       <a href="index.html" className="navbar-brand">
         {/* <h1 className="m-0 text-primary" style={{ width: "20px" }}> */}
-        <img src="./ZR_Logo.png" alt="" style={{ width: "80px" }} />
+        <img src="./ZR_Logo.png" alt="" style={{ width: "100px" }} />
         {/* </h1> */}
       </a>
       <button
